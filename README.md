@@ -23,9 +23,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcelo-C-Silva&theme=black-ice&hide_border=true&stroke=000&background=000000"/>
 </div>
 
-  <p><b>📌 My GitHub Status</b></p>
-  <img src="https://img.shields.io/badge/Commits-Today-black?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repos-Active-black?style=for-the-badge&logo=github&logoColor=white"/>
-</div>
  
- <img align="center" alt="" height="20%" width="20%" src="img/hatsune_miku.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
+ <img align="center" alt="" height="50" width="50" src="img/octo.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
