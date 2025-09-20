@@ -8,10 +8,10 @@
 </div>
 
 ```txt
-                                       HTML  ███████████░░░░░░░░░  Not Bad
-                                        CSS  █████████████░░░░░░░  Alright
-                                 JavaScript  ████████████░░░░░░░░  Not Bad
-                                     Muscle  ██░░░░░░░░░░░░░░░░░░ Weak   
+                                       HTML  ███████████░░░░░░░░░ まあまあ Not Bad
+                                        CSS  █████████████░░░░░░░ そこそこ Alright
+                                 JavaScript  ████████████░░░░░░░░ まあまあ Not Bad
+                                     Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ Weak   
 ````
 <div align="center"> <a href = "mailto:jmarcelocarneiro@edu.unifor.br"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-009873234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=light" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=light" /> </div>
 
