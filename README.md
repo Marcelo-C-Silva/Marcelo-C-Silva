@@ -28,4 +28,4 @@
   <img src="https://img.shields.io/badge/Repos-Active-black?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
  
- <img align="center" alt="" height="40" width="40" src="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/blob/main/img/85be94350b6cefd78140c8c8232c75e5.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
+ <img align="center" alt="" height="20%" width="20%" src="img/hatsune_miku.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
