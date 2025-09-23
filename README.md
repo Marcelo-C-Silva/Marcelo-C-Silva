@@ -1,10 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=header"/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
  <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="img/Gemini_Generated_Image_93nezh93nezh93ne-removebg-preview.png">
 </div>
 
-<!--Nome e função-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
 *Desenvolvedor Web & Mobile | Estudante de ADS | Estagiário na SEFIN*  
 <br /> 
 
@@ -14,29 +15,11 @@
 - ✨ Aprendiz para toda a vida  
 - 🌱 Atualmente explorando desenvolvimento web avançado e automação  
 - 💁‍♂️ Estagiário na [SEFIN - Secretaria de Finanças, Fortaleza](https://www.fortaleza.ce.gov.br/sefin)  
-- 🏙 Apaixonado por criar jogos e aplicações interativas  
-- ✍ Escrevo conteúdos técnicos e tutoriais  
+- 🏙 Apaixonado por criar jogos e aplicações interativas   
 - ❤ Contribuindo para projetos pessoais e open-source  
 - 💻 Confira meu [GitHub](https://github.com/Marcelo-C-Silva) para mais detalhes
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcelo+Carneiro+ദ്ദി(⎚_⎚);I'm+26+years+old+ദ്ദി(⎚_⎚);I'm+from+Brazil+ദ്ദി(⎚_⎚);I+Graduated+systems+Development+ദ്ദി(⎚_⎚);Be+Welcome!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
 </div>
-<table>
-  <tr>
-   <td align="left" valign="top">
-      <h3>Interesses</h3>
-      <ul>
-        <li>Desenvolvimento Web e Mobile</li>
-        <li>Automação de processos</li>
-        <li>Experiências em projetos de tecnologia aplicada à gestão pública</li>
-        <li>Criação de jogos e aplicações interativas</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="img/avatar.png" height="300" width="200" alt="Avatar">
-    </td>
-  </tr>
-</table>
 
 
 
