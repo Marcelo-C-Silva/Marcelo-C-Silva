@@ -8,8 +8,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
 *Desenvolvedor Web & Mobile | Estudante de ADS | Estagiário na SEFIN*  
 <br /> 
-
-<!--Introdução-->               
+            
 <p align="left">Sou desenvolvedor web e mobile, com paixão por automação, criação de aplicações interativas e exploração de novas tecnologias. Tenho experiência com Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, e gosto de desenvolver projetos que tornam processos mais fáceis e dinâmicos.</p>
 
 - ✨ Aprendiz para toda a vida  
@@ -55,7 +54,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
 </div>
-
-
+<div align="center"> 
+ <img src="img/Design-sem-nome-1--unscreen.gif" >
+</div>
  
  </p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
