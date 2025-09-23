@@ -47,18 +47,13 @@
       alt="Top languages Marcelo Carneiro" 
     />
   </a>
-
-  <!-- Espaçamento -->
   <br><br>
-
-  <!-- Contatos -->
   <a href="mailto:jmarcelocarneiro@edu.unifor.br">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-009873234/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
-  <img  alt="" height="50" width="50" src="img/octo.gif">
 </div>
 
 
