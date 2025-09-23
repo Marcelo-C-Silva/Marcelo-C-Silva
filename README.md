@@ -23,6 +23,11 @@
  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Marcelo-C-Silva&theme=black-ice&hide_border=true&stroke=000&background=000000"/>
 </div>
+<div align="center">
+
+![GitHub Metrics](https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/main/github-metrics.svg)
+
+</div>
 
  
  <img align="center" alt="" height="50" width="50" src="img/octo.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
