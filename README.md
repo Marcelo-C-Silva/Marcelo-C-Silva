@@ -57,5 +57,4 @@
 <div align="center"> 
  <img src="img/Design-sem-nome-1--unscreen.gif" >
 </div>
- 
- </p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
