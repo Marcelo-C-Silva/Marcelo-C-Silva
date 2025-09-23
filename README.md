@@ -19,11 +19,7 @@
 <div align="center"> <a href="https://github.com/Marcelo-C-Silva"> <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=808080&rank_icon=github&text_color=ffffff&bg_color=000000" alt="Marcelo Carneiro github stats" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-C-Silva&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" /> </div> <div align="center"> <br><div align="center">
  <div align="center">
   
-<div align="center">
 
-![GitHub Metrics](https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/main/github-metrics.svg)
-
-</div>
 
  
  <img align="center" alt="" height="50" width="50" src="img/octo.gif"></p> <br> </div> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
