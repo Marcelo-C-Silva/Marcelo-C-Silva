@@ -3,16 +3,14 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
  <div>
   <img align="right" width="40%" src="img/Gemini_Generated_Image_93nezh93nezh93ne-removebg-preview.png">
-</div>
-<table align="right">
-  <tr><td><a href="README.md"><img src="./assets/us_flag.png" width="17px"> English</a></td></tr>
-  <tr><td><a href="README-pt-br.md"><img src="./assets/br_flag.png" width="17px"> Português</a></td></tr>
-</table>
-
+ </div>
+ 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
 *Desenvolvedor Web & Mobile | Estudante de ADS | Estagiário na SEFIN*  
 <br /> 
-            
+<table align="right">
+  <tr><td><a href="README.md"><img src="./assets/us_flag.png" width="17px"> English</a></td></tr>
+</table>            
 <p align="left">Sou desenvolvedor web e mobile, com paixão por automação, criação de aplicações interativas e exploração de novas tecnologias. Tenho experiência com Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, e gosto de desenvolver projetos que tornam processos mais fáceis e dinâmicos.</p>
 
 - ✨ Aprendiz para toda a vida  
