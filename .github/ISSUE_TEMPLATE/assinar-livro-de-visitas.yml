@@ -1,6 +1,7 @@
 name: Livro de Visitas
 description: Deixe uma mensagem legal para mim!
 labels: ["livro-de-visitas"]
+title: "Mensagem de {{nome}}"  # usa o valor do campo "nome" para preencher o título
 body:
   - type: input
     id: nome
