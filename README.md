@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
+ <table align="right">
+  <tr><td><a href="README.md"><img src="img/Flag_of_the_United_States.svg.png" width="17px"> English</a></td></tr>
+</table>
  <div>
   <img align="right" width="40%" src="img/Gemini_Generated_Image_93nezh93nezh93ne-removebg-preview.png">
  </div>
  
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> eu sou ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
 *Desenvolvedor Web & Mobile | Estudante de ADS | Estagiário na SEFIN*  
-<br /> 
-<table align="right">
-  <tr><td><a href="README.md"><img src="img/Flag_of_the_United_States.svg.png" width="17px"> English</a></td></tr>
-</table>            
+<br />             
 <p align="left">Sou desenvolvedor web e mobile, com paixão por automação, criação de aplicações interativas e exploração de novas tecnologias. Tenho experiência com Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, e gosto de desenvolver projetos que tornam processos mais fáceis e dinâmicos.</p>
 
 - ✨ Aprendiz para toda a vida  
