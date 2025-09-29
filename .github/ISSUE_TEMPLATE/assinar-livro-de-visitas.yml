@@ -11,14 +11,15 @@ body:
     validations:
       required: true
   - type: textarea
-    id: mensagem
-    attributes:
-      label: Mensagem
-      placeholder: |
-        Encontrei seu perfil através de:
-        <!-- Me conte como você me encontrou -->
+  id: mensagem
+  attributes:
+    label: Mensagem
+    placeholder: |
+      Encontrei seu perfil através de:
+      <!-- Me conte como você me encontrou -->
 
-        Mensagem:
-        <!-- Escreva sua mensagem aqui -->
-    validations:
-      required: true
+      Mensagem:
+      <!-- Escreva sua mensagem aqui -->
+  validations:
+    required: true
+
