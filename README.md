@@ -72,7 +72,7 @@
   </tr>
 </table>
 </div>
-  <a href="https://github.com/Marcelo-C-Silva/Meu-Portfolio/issues/new?assignees=&labels=livro-de-visitas&template=assinar-livro-de-visitas.yml" target="_blank">
+  <a href="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/issues/new?template=assinar-livro-de-visitas.yml" target="_blank">
     <img src="https://img.shields.io/badge/-💌%20Assinar%20Livro%20de%20Visitas-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Assinar meu Livro de Visitas" />
   </a>
 </div>
