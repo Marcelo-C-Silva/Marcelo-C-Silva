@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Welcome!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
 <table align="right">
-  <tr><td><a href="README.md"><img src="img/Flag_of_the_United_States.svg.png" width="17px"> English</a></td></tr>
+  <tr><td><a href="README.md"><img src="img/bandeira-do-brasil-og.webp" width="17px"> Português Brasileiro</a></td></tr>
 </table>
 <div>
   <img align="right" width="40%" src="img/Gemini_Generated_Image_93nezh93nezh93ne-removebg-preview.png">
