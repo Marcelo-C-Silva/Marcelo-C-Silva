@@ -61,15 +61,25 @@
   </div>
 
 </div>
-
-
-<div align="center">  
-  <br><br>
-  <a href="mailto:jmarcelocarneiro@edu.unifor.br">
-    <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-marcelo-009873234/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+<div align="center">
+  <div style="display: flex; align-items: center; gap: 10px;"> 
+       <img src="img/cartinha-removebg-preview.png" style="height: 300px;">
+ <table style="border-collapse: collapse; background-color: white; border-radius: 10px; padding: 10px;">
+  <tr>
+    <td style="padding: 10px; font-size: 18px; color: #7E3ACE; font-weight: bold;">
+      Já que chegou até aqui, que tal assinar meu Livro de Visitas? 💌
+    </td>
+  </tr>
+</table>
+</div>
+  <a href="https://github.com/Marcelo-C-Silva/Meu-Portfolio/issues/new?assignees=&labels=livro-de-visitas&template=assinar-livro-de-visitas.yml" target="_blank">
+    <img src="https://img.shields.io/badge/-💌%20Assinar%20Livro%20de%20Visitas-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Assinar meu Livro de Visitas" />
   </a>
 </div>
+
+
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
