@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Assinar o Livro de Visitas
+    url: https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/issues/new?template=assinar-livro-de-visitas.yml
+    about: Deixe uma mensagem no meu Livro de Visitas!
