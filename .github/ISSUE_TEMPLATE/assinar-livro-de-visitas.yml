@@ -20,4 +20,4 @@ body:
         Mensagem:
         <!-- Escreva sua mensagem aqui -->
     validations:
-      required: false
+      required: true
