@@ -1,24 +1,19 @@
-name: Assinar o Livro de Visitas
-about: Deixe uma mensagem legal para mim :)
-title: "Mensagem de "
-labels: livro-de-visitas
-assignees: ''
-
+name: Livro de Visitas
+description: Deixe uma mensagem legal para mim!
+title: "[Livro de Visitas]"
+labels: ["livro-de-visitas"]
 body:
-  - type: markdown
-    attributes:
-      value: "## ✍️ Deixe sua mensagem aqui\nVocê pode usar emojis 😄, links [exemplo](https://example.com) ou imagens ![img](https://example.com/img.png)"
   - type: input
     id: nome
     attributes:
       label: Seu nome
-      placeholder: "Ex.: João"
+      placeholder: "Digite seu nome aqui"
     validations:
       required: true
   - type: textarea
     id: mensagem
     attributes:
-      label: Sua mensagem
-      placeholder: "Digite sua mensagem aqui..."
+      label: Mensagem
+      placeholder: "Deixe sua mensagem aqui"
     validations:
       required: true
