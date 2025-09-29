@@ -1,6 +1,5 @@
 name: Livro de Visitas
 description: Deixe uma mensagem legal para mim!
-title: "[Livro de Visitas]"
 labels: ["livro-de-visitas"]
 body:
   - type: input
@@ -14,6 +13,9 @@ body:
     id: mensagem
     attributes:
       label: Mensagem
-      placeholder: "Deixe sua mensagem aqui"
+      placeholder: "Encontrei seu perfil através de:
+<!-- Me conte como você me encontrou -->
+Mensagem:
+<!-- Escreva sua mensagem aqui -->"
     validations:
       required: true
