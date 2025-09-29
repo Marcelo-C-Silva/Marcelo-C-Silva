@@ -35,12 +35,33 @@
   </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
 <div align="center">
 
-  <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=dark" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" /> </div>
-  
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=sass&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=ruby&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=rails&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+  </div>
+
+</div>
+
+
+<div align="center">  
   <br><br>
   <a href="mailto:jmarcelocarneiro@edu.unifor.br">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
