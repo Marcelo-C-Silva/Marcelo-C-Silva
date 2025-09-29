@@ -39,7 +39,8 @@
 
 <div align="center">
 
-  <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=light" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=light" /> </div>
+  <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=dark" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" /> </div>
+  
   <br><br>
   <a href="mailto:jmarcelocarneiro@edu.unifor.br">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
