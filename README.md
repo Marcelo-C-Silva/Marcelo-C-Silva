@@ -28,29 +28,18 @@
                                  JavaScript  ████████████░░░░░░░░ まあまあ Not Bad
                                      Muscle  ██░░░░░░░░░░░░░░░░░░ よわよわ Weak   
 ````
+  <a href="https://github.com/Marcelo-C-Silva">
+     <img 
+      src="https://pixel-profile.vercel.app/api/github-stats?username=Marcelo-C-Silva&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=fuji&color=%23ffffffFF" 
+    />
+  </a>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
-
- <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=light" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=light" /> </div>
-
 <div align="center">
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Marcelo-C-Silva">
-    <img 
-      width="49%" 
-      height="195px" 
-      src="https://github-readme-stats.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=808080&rank_icon=github&text_color=ffffff&bg_color=000000" 
-      alt="Marcelo Carneiro github stats" 
-    />
-    <img 
-      width="41%" 
-      height="195px" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-C-Silva&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" 
-      alt="Top languages Marcelo Carneiro" 
-    />
-  </a>
+
+  <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,sass,ruby,rails,git&theme=light" /> </div> <div style="display: inline_block" align="center"> <img src="https://skillicons.dev/icons?i=vscode,github&theme=light" /> </div>
   <br><br>
   <a href="mailto:jmarcelocarneiro@edu.unifor.br">
     <img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
@@ -62,4 +51,10 @@
 <div align="center"> 
  <img src="img/Design-sem-nome-1--unscreen.gif" >
 </div>
+
+
+
+
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
