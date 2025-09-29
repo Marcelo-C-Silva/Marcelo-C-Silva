@@ -4,6 +4,10 @@
  <div>
   <img align="right" width="40%" src="img/Gemini_Generated_Image_93nezh93nezh93ne-removebg-preview.png">
 </div>
+<table align="right">
+  <tr><td><a href="README.md"><img src="./assets/us_flag.png" width="17px"> English</a></td></tr>
+  <tr><td><a href="README-pt-br.md"><img src="./assets/br_flag.png" width="17px"> Português</a></td></tr>
+</table>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
 *Desenvolvedor Web & Mobile | Estudante de ADS | Estagiário na SEFIN*  
@@ -70,13 +74,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
 </div>
-<div align="center"> 
- <img src="img/Design-sem-nome-1--unscreen.gif" >
-</div>
-
-
-
-
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=footer"/> 
