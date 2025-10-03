@@ -18,7 +18,7 @@
 - 💁‍♂️ Intern at [SEFIN - Finance Secretariat, Fortaleza](https://www.fortaleza.ce.gov.br/sefin)  
 - 🏙 Passionate about creating games and interactive applications   
 - ❤ Contributing to personal and open-source projects  
-- 💻 Check my [GitHub](https://github.com/Marcelo-C-Silva) for more details
+- 💻 Check my [Portfolio](https://marcelo-c-silva.github.io/apresentando_eu/)  for more details
 
 </div>
 
