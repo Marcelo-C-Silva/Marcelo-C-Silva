@@ -18,7 +18,7 @@
 - 💁‍♂️ Estagiário na [SEFIN - Secretaria de Finanças, Fortaleza](https://www.fortaleza.ce.gov.br/sefin)  
 - 🏙 Apaixonado por criar jogos e aplicações interativas   
 - ❤ Contribuindo para projetos pessoais e open-source  
-- 💻 Confira meu [GitHub](https://github.com/Marcelo-C-Silva) para mais detalhes
+- 💻 Confira meu [Portifólio](https://marcelo-c-silva.github.io/apresentando_eu/) para mais detalhes
 
 </div>
 
