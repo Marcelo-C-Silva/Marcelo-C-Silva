@@ -14,9 +14,7 @@
 <p align="left">Sou desenvolvedor web e mobile, com paixão por automação, criação de aplicações interativas e exploração de novas tecnologias. Tenho experiência com Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, e gosto de desenvolver projetos que tornam processos mais fáceis e dinâmicos.</p>
 
 - ✨ Aprendiz para toda a vida  
-- 🌱 Atualmente explorando desenvolvimento web avançado e automação  
-- 💁‍♂️ Estagiário na [SEFIN - Secretaria de Finanças, Fortaleza](https://www.fortaleza.ce.gov.br/sefin)  
-- 🏙 Apaixonado por criar jogos e aplicações interativas   
+- 🌱 Atualmente explorando desenvolvimento web avançado    
 - ❤ Contribuindo para projetos pessoais e open-source  
 - 💻 Confira meu [Portifólio](https://marcelo-c-silva.github.io/apresentando_eu/) para mais detalhes
 
