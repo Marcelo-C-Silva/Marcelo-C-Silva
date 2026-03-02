@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50" />
     <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50" />
     <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="50" />
+   <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50" />
     <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50" />
     <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="50" />
   </div>
