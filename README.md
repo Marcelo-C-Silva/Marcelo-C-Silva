@@ -60,21 +60,7 @@
   </div>
 
 </div>
-<div align="center">
-  <div style="display: flex; align-items: center; gap: 10px;"> 
-       <img src="img/cartinha-removebg-preview.png" style="height: 300px;">
- <table style="border-collapse: collapse; background-color: white; border-radius: 10px; padding: 10px;">
-  <tr>
-    <td style="padding: 10px; font-size: 18px; color: #7E3ACE; font-weight: bold;">
-      Já que chegou até aqui, que tal assinar meu Livro de Visitas? 💌
-    </td>
-  </tr>
-</table>
-</div>
-  <a href="https://github.com/Marcelo-C-Silva/Marcelo-C-Silva/issues/new?template=assinar-livro-de-visitas.yml" target="_blank">
-    <img src="https://img.shields.io/badge/-💌%20Assinar%20Livro%20de%20Visitas-7E3ACE?style=for-the-badge&logo=github&logoColor=white" alt="Assinar meu Livro de Visitas" />
-  </a>
-</div>
+
 
 
 
