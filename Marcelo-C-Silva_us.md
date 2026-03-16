@@ -9,7 +9,7 @@
 </div>
 
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ!  
-*Web & Mobile Developer | ADS Student | Intern at SEFIN*  
+*Web & Mobile Developer | ADS Student*  
 <br />             
 <p align="left">I am a web and mobile developer, passionate about automation, creating interactive applications, and exploring new technologies. I have experience with Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, and enjoy developing projects that make processes easier and more dynamic.</p>
 
