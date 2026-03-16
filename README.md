@@ -9,7 +9,7 @@
  </div>
  
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> eu sou ᴍᴀʀᴄᴇʟᴏ ᴄᴀʀɴᴇɪʀᴏ! 
-*Desenvolvedor Web & Mobile | Estudante de ADS *  
+*Desenvolvedor Web & Mobile | Estudante de ADS*  
 <br />             
 <p align="left">Sou desenvolvedor web e mobile, com paixão por automação, criação de aplicações interativas e exploração de novas tecnologias. Tenho experiência com Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, e gosto de desenvolver projetos que tornam processos mais fáceis e dinâmicos.</p>
 
