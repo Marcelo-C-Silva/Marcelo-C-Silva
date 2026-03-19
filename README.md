@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&fontColor=ffffff&section=header"/>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!+ദ്ദി(⎚_⎚))](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Seja+bem+vindo(a)!)](https://git.io/typing-svg)
  <table align="right">
   <tr><td><a href="Marcelo-C-Silva_us.md"><img src="img/Flag_of_the_United_States.svg.png" width="17px"> English</a></td></tr>
 </table>
