@@ -14,8 +14,7 @@
 <p align="left">I am a web and mobile developer, passionate about automation, creating interactive applications, and exploring new technologies. I have experience with Ruby on Rails, JavaScript, HTML, CSS, Bootstrap, and enjoy developing projects that make processes easier and more dynamic.</p>
 
 - ✨ Lifelong learner  
-- 🌱 Currently exploring advanced web development and automation     
-- ❤ Contributing to personal and open-source projects  
+- 🌱 Currently exploring advanced web development and automation      
 - 💻 Check my [Portfolio](https://marcelo-c-silva.github.io/apresentando_eu/)  for more details
 
 </div>
