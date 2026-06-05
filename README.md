@@ -21,8 +21,7 @@ marcelo@dev:~ $ cat whoami.json
   "role"   : "Desenvolvedor Web & Mobile",
   "curso"  : "Análise e Desenvolvimento de Sistemas",
   "foco"   : ["automação", "apps interativos", "web"],
-  "stack"  : ["Ruby on Rails", "JavaScript", "React", "Angular"],
-  "muscle" : "⚠️  baixo — em processo de correção"
+  "stack"  : ["Ruby on Rails", "JavaScript", "React", "Angular"]
 }
 ```
 
@@ -53,20 +52,8 @@ marcelo@dev:~ $ github-stats --user Marcelo-C-Silva
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=b0b0b0&icon_color=00cc33&ring_color=00ff41&border_radius=6"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo-C-Silva&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=b0b0b0&border_radius=6"/>
-
-</div>
-
----
-
-```zsh
-marcelo@dev:~ $ github-streak --user Marcelo-C-Silva
-```
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Marcelo-C-Silva&hide_border=true&border_radius=6&background=0d0d0d&stroke=00ff4120&ring=00ff41&fire=00cc33&currStreakNum=00ff41&sideNums=b0b0b0&currStreakLabel=00cc33&sideLabels=666666&dates=555555&locale=pt_BR"/>
+<img height="170em" src="profile/stats.svg"/>
+<img height="170em" src="profile/top-langs.svg"/>
 
 </div>
 
