@@ -7,6 +7,9 @@ on:
   push:
     branches: [main, master]
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,21 +19,54 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card
-        uses: stats-organization/github-readme-stats-action@v2
+      - name: Setup Node 24
+        uses: actions/setup-node@v4
         with:
-          card: stats
-          options: "username=Marcelo-C-Silva&show_icons=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=b0b0b0&icon_color=00cc33&ring_color=00ff41"
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          node-version: 24
 
-      - name: Top languages card
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: top-langs
-          options: "username=Marcelo-C-Silva&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=b0b0b0"
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install dependencies
+        run: |
+          npm install axios
+
+      - name: Generate Stats SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p profile
+          node << 'SCRIPT'
+          const https = require('https');
+          const fs = require('fs');
+
+          const BASE = 'https://github-readme-stats.vercel.app/api';
+          const USER = 'Marcelo-C-Silva';
+          const COLORS = 'hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=b0b0b0&icon_color=00cc33&ring_color=00ff41';
+
+          function download(url, dest) {
+            return new Promise((resolve, reject) => {
+              const file = fs.createWriteStream(dest);
+              https.get(url, res => {
+                res.pipe(file);
+                file.on('finish', () => { file.close(); resolve(); });
+              }).on('error', reject);
+            });
+          }
+
+          async function run() {
+            await download(
+              `${BASE}?username=${USER}&show_icons=true&count_private=true&include_all_commits=true&${COLORS}`,
+              'profile/stats.svg'
+            );
+            console.log('stats.svg gerado');
+
+            await download(
+              `${BASE}/top-langs?username=${USER}&layout=compact&langs_count=8&${COLORS}`,
+              'profile/top-langs.svg'
+            );
+            console.log('top-langs.svg gerado');
+          }
+
+          run().catch(e => { console.error(e); process.exit(1); });
+          SCRIPT
 
       - name: Commit SVGs
         run: |
