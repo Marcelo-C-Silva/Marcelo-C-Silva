@@ -52,8 +52,8 @@ marcelo@dev:~ $ github-stats --user Marcelo-C-Silva
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&theme=cobalt&locale=pt-br" alt="GitHub Stats"/>
-<img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Marcelo-C-Silva&layout=compact&langs_count=8&theme=cobalt&locale=pt-br" alt="Top Languages"/>
+<img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api?username=Marcelo-C-Silva&show_icons=true&theme=blue-green&locale=pt-br" alt="GitHub Stats"/>
+<img height="170em" src="https://github-readme-stats-56o7lbxa4-maurilio-carmos-projects.vercel.app/api/top-langs/?username=Marcelo-C-Silva&layout=compact&langs_count=8&theme=blue-green&locale=pt-br" alt="Top Languages"/>
 
 </div>
 
