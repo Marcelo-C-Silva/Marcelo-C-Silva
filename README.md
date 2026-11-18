@@ -15,9 +15,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img src="./img/avatar-circle.svg" align="right" width="200" alt="Avatar animado do João Marcelo" />
 
 ### 👋 Sobre mim
 
@@ -28,15 +26,7 @@ Sou desenvolvedor full stack de **Fortaleza** e curso **Análise e Desenvolvimen
 - 🗺️ Curto mapas interativos, apps mobile e interfaces retrô
 - ⚡ Fun fact: meu [portfólio](https://beautiful-fudge-a3b934.netlify.app) parece um Macintosh clássico 🖥️
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/main/img/Design-sem-nome-1--unscreen.gif" width="260" alt="Avatar animado do João Marcelo" />
-
-</td>
-</tr>
-</table>
-
+<br clear="right"/>
 <br/>
 
 <div align="center">
