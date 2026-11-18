@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<a href="https://marcelo-c-silva.github.io/apresentando_eu/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+produtos+%E2%9C%A8;Rails+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+Blazor;Automatizando+o+que+for+repetitivo+%F0%9F%A4%96;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://beautiful-fudge-a3b934.netlify.app"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+produtos+%E2%9C%A8;Rails+%E2%80%A2+React+%E2%80%A2+Angular+%E2%80%A2+Blazor;Automatizando+o+que+for+repetitivo+%F0%9F%A4%96;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <br/>
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)](https://marcelo-c-silva.github.io/apresentando_eu/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-00ff41?style=for-the-badge&logo=googlechrome&logoColor=0d0d0d)](https://beautiful-fudge-a3b934.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-marcelo-009873234)
 ![Fortaleza](https://img.shields.io/badge/Fortaleza--CE-0d0d0d?style=for-the-badge&logo=googlemaps&logoColor=00ff41)
 <img src="https://komarev.com/ghpvc/?username=Marcelo-C-Silva&color=00cc33&style=for-the-badge&label=VISITAS" alt="Visitas ao perfil" />
@@ -26,7 +26,7 @@ Sou desenvolvedor full stack de **Fortaleza** e curso **Análise e Desenvolvimen
 - 🔭 Hoje estou mergulhando em **C# / .NET / Blazor** e **Clean Architecture**
 - 🌱 Estudando **microsserviços** e **IA** aplicada ao dia a dia
 - 🗺️ Curto mapas interativos, apps mobile e interfaces retrô
-- ⚡ Fun fact: meu [portfólio](https://marcelo-c-silva.github.io/apresentando_eu/) parece um Macintosh clássico 🖥️
+- ⚡ Fun fact: meu [portfólio](https://beautiful-fudge-a3b934.netlify.app) parece um Macintosh clássico 🖥️
 
 </td>
 <td width="45%" align="center" valign="middle">
@@ -45,7 +45,7 @@ Sou desenvolvedor full stack de **Fortaleza** e curso **Análise e Desenvolvimen
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,typescript,react,nextjs,angular&perline=10&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=ruby,rails,cs,dotnet,python,java,php,nodejs,vite,jquery&perline=10&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,github,vscode&perline=10&theme=dark" />
 
 <br/><br/>
 
