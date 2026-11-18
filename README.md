@@ -31,7 +31,7 @@ Sou desenvolvedor full stack de **Fortaleza** e curso **Análise e Desenvolvimen
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/main/img/octo.gif" width="260" alt="Octocat animado" />
+<img src="https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/main/img/Design-sem-nome-1--unscreen.gif" width="260" alt="Avatar animado do João Marcelo" />
 
 </td>
 </tr>
