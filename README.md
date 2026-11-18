@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="./img/avatar-circle.svg" align="right" width="200" alt="Avatar animado do João Marcelo" />
+<img src="./img/Design-sem-nome-1--unscreen.gif" align="right" width="300" alt="Avatar animado do João Marcelo" />
 
 ### 👋 Sobre mim
 
