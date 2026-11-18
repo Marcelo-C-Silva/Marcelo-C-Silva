@@ -51,7 +51,7 @@ Sou desenvolvedor full stack de **Fortaleza** e curso **Análise e Desenvolvimen
 
 ## 🐍 Minhas contribuições
 
-<img src="https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo minhas contribuições" width="100%" />
+<img src="https://raw.githubusercontent.com/Marcelo-C-Silva/Marcelo-C-Silva/output/github-contribution-grid-snake-dark.svg" alt="Cobrinha comendo minhas contribuições" width="100%" />
 
 <br/>
 
